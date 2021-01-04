@@ -1,0 +1,112 @@
+.main-home-div {
+    align-items: center; 
+    position: relative;
+}
+
+.first-section-home {
+    padding: 150px; background-image: url(../../../assets/pictures/Background2.png);
+    background-repeat: no-repeat;
+    height: 87vh;
+    background-position: -134px 100px;
+}
+
+.first-section-text {
+    border-bottom: 5px solid rgb(0, 0, 0);
+    width: 200px;
+}
+
+.image-one {
+    width: 470px;
+}
+
+.background-one {
+    width: 470px;
+    position: relative;
+    right: -170px;
+    top: -43px;
+}
+
+.main-section-two {
+    display: flex; 
+    align-items: center; padding: 115px 120px 10px;
+    background-image: url(../../../assets/pictures/Background1.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: left;
+}
+
+.sub-section-one {
+    border-radius: 12px;
+    padding: 15px 20px;
+    box-shadow: 0 1px 30px 0 rgba(0,0,0,.15);
+    height: 500px;
+    width: 400px;
+    background-color: white;
+}
+
+.eligibility-section {
+    text-align: center;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.monthly-section {
+    margin-top: 30px;
+}
+
+.amount-one {
+    font-size: larger;
+    font-weight: 500;
+}
+
+.margin {
+    margin-top: 20px;
+}
+
+.amount {
+    font-size: larger;
+    font-weight: 500;
+}
+
+.section {
+    border-radius: 12px;
+    padding: 15px 20px;
+    box-shadow: 0 1px 30px 0 rgba(0,0,0,.15);
+    height: 231px;
+    width: 250px;
+    background-color: #6b389e; margin-left: 10px;
+}
+
+.loan-amount {
+    color: white;
+}
+
+.amount-rs {
+    color: white; font-size: larger;
+    font-weight: 500;
+}
+
+.emi-section {
+    color: white; 
+    margin-top: 15px;
+}
+
+.another-amount {
+    color: white; 
+    font-size: larger;
+    font-weight: 500;
+}
+
+.money-section {
+    border-radius: 18px;
+    color: #b448e0; 
+    border-block-color: #b448e0; 
+    background-color: white; 
+    margin-top: 15px;
+}
+
+.image-section {
+    position: absolute; right: 0px;
+    bottom: -67px;
+    width: 628px;
+}

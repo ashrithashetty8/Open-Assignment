@@ -1,0 +1,54 @@
+.card_box {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 15px 20px;
+    box-shadow: 0 1px 30px 0 rgba(0,0,0,.15);
+    margin-bottom: 50px;
+    height: 250px;
+    width: 369px;
+    margin-left: 111px;
+    cursor: pointer;
+    transition: all 0.9s;
+    &:hover {
+        background-color: #aa7cd5;
+        color: white;
+    }
+}
+
+.main-section {
+    display: flex; margin-top: 50px;
+    background-image: url(../../../assets/pictures/Wave1.png);
+    background-repeat: no-repeat;
+    height: 150vh;
+    background-position: left;
+}
+
+.second-section {
+    display: inline-table;
+}
+
+.third-section {
+    display: inline-table; 
+    padding: 160px 0px;
+}
+
+.forth-section {
+    padding: 335px 0px;
+    margin-left: 120px;
+}
+
+.boost-section {
+    margin-bottom: 25px;
+}
+
+.line {
+    border-bottom: 5px solid rgb(0, 0, 0);
+    width: 200px; margin-bottom: 25px;
+}
+
+.btn-open-account {
+    border-radius: 18px;
+    color: #b448e0;
+    border-block-color: #b448e0;
+    margin-top: 40px;
+}

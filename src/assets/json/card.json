@@ -1,0 +1,27 @@
+[
+    {
+        "img": "/assets/pictures/Icon1.png",
+        "title": "Loans to fight COVID-19",
+        "description": "Zero EMI for first 3 months on Back-to-Business loans of upto 1 lakh"
+    },
+    {
+        "img": "/assets/pictures/Icon2.png",
+        "title": "Low-Interest Rates",
+        "description": "Achieve your financial goals with an amazing interset rate starting at 13% per annum"
+    },
+    {
+        "img": "/assets/pictures/Icon3.png",
+        "title": "Quick Cash Disbursement",
+        "description": "Get terms loans that your business needs within 72 hrs"
+    },
+    {
+        "img": "/assets/pictures/Icon4.png",
+        "title": "Zero PaperWork",
+        "description": "Get started instantly by submitting only your basic details & bank statements"
+    },
+    {
+        "img": "/assets/pictures/Icon5.png",
+        "title": "Ace Your Business Finances",
+        "description": "Manage banking, accounting & everything in between, on one platform"
+    }
+]
